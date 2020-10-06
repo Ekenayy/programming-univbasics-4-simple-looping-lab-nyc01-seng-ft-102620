@@ -28,8 +28,8 @@ def output_array(array)
 end 
 
 #def return_string_array(array)
- counter = 0
- new_array = []
+# counter = 0
+ #new_array = []
  
 #while counter < array.length do
  # array[counter] = array[counter].to_s
