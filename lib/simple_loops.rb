@@ -27,15 +27,16 @@ def output_array(array)
   end 
 end 
 
-#def return_string_array(array)
-# counter = 0
- #new_array = []
+def return_string_array(array)
+counter = 0
+new_array = []
  
-#while counter < array.length do
- # array[counter] = array[counter].to_s
- # new_array.push(array[counter])
- # puts new_array 
-#end 
-#end
+while counter < array.length do
+  array[counter] = array[counter].to_s
+ new_array.push(array[counter])
+ counter += 1
+ end
+  puts new_array 
+end
 
   
