@@ -35,7 +35,7 @@ def return_string_array(array)
  # array[counter] = array[counter].to_s
  # new_array.push(array[counter])
  # puts new_array 
-end 
-end
+#end 
+#end
 
   
